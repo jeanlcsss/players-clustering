@@ -1,0 +1,4 @@
+[core]
+    remote = remote-gcs
+['remote "remote-gcs"']
+    url = gs://players_clustering_data
